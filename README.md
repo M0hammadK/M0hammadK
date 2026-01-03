@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammed Kamaneh
 
-<!--
-**M0hammadK/M0hammadK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 AI & Deep Learning Roadmap
 
-Here are some ideas to get you started:
+I’m following a structured plan to become an **AI / Deep Learning Engineer**.
+This profile documents my **learning journey, projects, and experiments**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Learning Roadmap
+
+### Phase 1: Python & Data Foundations
+- [ ] Python fundamentals
+- [ ] NumPy
+- [ ] Pandas
+- [ ] Data visualization
+
+### Phase 2: Machine Learning
+- [ ] Scikit-learn
+- [ ] Regression & classification
+- [ ] Model evaluation
+
+### Phase 3: Deep Learning
+- [ ] PyTorch
+- [ ] Neural networks
+- [ ] CNNs
+- [ ] Transformers
+
+---
+
+## 🛠 Tech Stack
+- Python
+- NumPy, Pandas
+- Scikit-learn
+- PyTorch
+- Git & GitHub
+- VS Code, Jupyter Notebook
+
+---
+
+## 📌 Projects
+Coming soon 🚧 (updated weekly)
+
+---
+
+## 📖 Learning Log
+- Day 1: GitHub setup & roadmap
